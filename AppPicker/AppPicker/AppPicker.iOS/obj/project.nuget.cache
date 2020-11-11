@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEMTHedKbud0w0tOjPkwTOrbklSw0fKA6JGFw48OVtsP7+gSQUasvvRx2cH3VJe6DNq+UsXuZtsVY6MFcVRO4Q==",
+  "success": true,
+  "projectFilePath": "G:\\Projetos Developer\\XamarinFormsExemplos\\AppPicker\\AppPicker\\AppPicker.iOS\\AppPicker.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

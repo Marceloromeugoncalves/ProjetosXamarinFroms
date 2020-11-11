@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppPicker.MainPage">
+
+    <StackLayout>
+
+        <Label Text="Brincando com a Matemática"
+               HorizontalOptions="Center"
+               FontSize="Large"/>
+
+        <Entry x:Name="entryValor" 
+               Keyboard="Numeric" 
+               Placeholder="Informe um número inteiro positivo"/>
+
+        <Picker x:Name="pickerOperacao" Title="Selecione uma tarefa">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Número Primo</x:String>
+                    <x:String>Número Par</x:String>
+                    <x:String>Fatorial</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Button x:Name="buttonVerificar"
+                Text="Verificar"
+                Clicked="buttonVerificar_Clicked"/>
+
+        <Label x:Name="labelResposta"
+               Text="Resposta"/>
+
+
+
+    </StackLayout>
+
+</ContentPage>

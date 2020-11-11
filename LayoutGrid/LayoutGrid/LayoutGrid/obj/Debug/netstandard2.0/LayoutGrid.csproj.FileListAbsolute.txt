@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.dll
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\ref\LayoutGrid.dll
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.pdb
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.dll
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\ref\LayoutGrid.dll
+G:\Projetos Developer\XamarinFormsExemplos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.pdb

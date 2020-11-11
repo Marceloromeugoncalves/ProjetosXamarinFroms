@@ -1,0 +1,16 @@
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\bin\Debug\netstandard2.0\AppAloMundo.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\bin\Debug\netstandard2.0\AppAloMundo.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\bin\Debug\netstandard2.0\ref\AppAloMundo.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\bin\Debug\netstandard2.0\AppAloMundo.pdb
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\AppAloMundo.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\ParOuImpar.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\AppAloMundo.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\AppAloMundo.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\AppAloMundo.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\AppAloMundo.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\ref\AppAloMundo.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\AppAloMundo.pdb
+G:\Projetos Developer\XamarinFormsExemplos\AppAloMundo\AppAloMundo\AppAloMundo\obj\Debug\netstandard2.0\CalculadoraSimples.xaml.g.cs

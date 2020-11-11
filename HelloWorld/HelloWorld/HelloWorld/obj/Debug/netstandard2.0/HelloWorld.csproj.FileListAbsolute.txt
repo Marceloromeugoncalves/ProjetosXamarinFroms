@@ -1,0 +1,15 @@
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\ref\HelloWorld.dll
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.pdb
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ref\HelloWorld.dll
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb
+G:\Projetos Developer\XamarinFormsExemplos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs

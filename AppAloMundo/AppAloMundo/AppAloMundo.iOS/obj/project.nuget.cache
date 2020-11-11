@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7b18LprAPmKyItA4sls7Skct3skL1utTixs7OEIhAoBxhQIRLUVp3N2E+X99bFWpM+0hNFoBLtxTfSlpTDtlw==",
+  "success": true,
+  "projectFilePath": "G:\\Projetos Developer\\XamarinFormsExemplos\\AppAloMundo\\AppAloMundo\\AppAloMundo.iOS\\AppAloMundo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

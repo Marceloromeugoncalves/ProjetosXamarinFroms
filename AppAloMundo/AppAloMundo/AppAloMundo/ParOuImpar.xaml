@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAloMundo.ParOuImpar">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Determina se um número é par ou ímpar"/>
+            <Entry x:Name="entryNumero" Keyboard="Numeric" Placeholder="Informe um número"/>
+            <Button x:Name="buttonExecutar" Text="Executar" Clicked="buttonExecutar_Clicked"/>
+            <Label x:Name="labelResposta"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
