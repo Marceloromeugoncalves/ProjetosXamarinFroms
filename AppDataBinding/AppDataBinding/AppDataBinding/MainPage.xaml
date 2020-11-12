@@ -5,10 +5,12 @@
 
     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            
             <Label Text="Data Binding Exemplo" 
                    HorizontalTextAlignment="Center" 
                    TextColor="White" 
                    FontSize="36"/>
+            
         </Frame>
 
         <Label Text="One Way"
