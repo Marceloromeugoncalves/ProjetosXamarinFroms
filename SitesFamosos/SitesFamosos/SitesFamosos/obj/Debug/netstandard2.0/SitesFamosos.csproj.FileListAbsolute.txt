@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\bin\Debug\netstandard2.0\SitesFamosos.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\bin\Debug\netstandard2.0\SitesFamosos.dll
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\bin\Debug\netstandard2.0\ref\SitesFamosos.dll
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\bin\Debug\netstandard2.0\SitesFamosos.pdb
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\SitesFamosos.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\SitesFamosos.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\SitesFamosos.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\SitesFamosos.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\SitesFamosos.dll
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\ref\SitesFamosos.dll
+G:\Projetos Developer\XamarinFormsExemplos\SitesFamosos\SitesFamosos\SitesFamosos\obj\Debug\netstandard2.0\SitesFamosos.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SitesFamosos.MainPage">
+
+    <StackLayout>
+
+        <Label Text="Melhores Sites"
+               HorizontalOptions="Center"
+               FontSize="Large"/>
+
+        <Image x:Name="imageSite1"
+               Source="iconfinder"
+               Margin="20">
+
+            <Image.GestureRecognizers>
+
+                <TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped1"
+                                      NumberOfTapsRequired="1"/>
+
+            </Image.GestureRecognizers>
+
+        </Image>
+
+        <Image x:Name="imageSite2"
+               Source="json_formatter_validator"
+               Margin="20">
+
+            <Image.GestureRecognizers>
+
+                <TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped2"
+                                      NumberOfTapsRequired="1"/>
+
+            </Image.GestureRecognizers>
+
+        </Image>
+
+        <Image x:Name="imageSite3"
+               Source="buildmystring"
+               Margin="20">
+
+            <Image.GestureRecognizers>
+
+                <TapGestureRecognizer Tapped="OnTapGestureRecognizerTapped3"
+                                      NumberOfTapsRequired="1"/>
+
+            </Image.GestureRecognizers>
+
+        </Image>
+
+    </StackLayout>
+
+</ContentPage>
