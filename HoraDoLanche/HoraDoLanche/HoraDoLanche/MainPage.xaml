@@ -10,9 +10,9 @@
                VerticalOptions="CenterAndExpand"
                FontSize="Large"/>
 
-        <Image x:Name="foto" Source="before_cookie" Aspect="AspectFill"/>
+        <Image x:Name="foto" Source="before_cookie" Aspect="AspectFill" Margin="20"/>
 
-        <Button Text="Comer" Clicked="Button_Clicked"/>
+        <Button Text="Comer" Clicked="Button_Clicked" Margin="20"/>
 
     </StackLayout>
 
