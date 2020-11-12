@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace AppEmail
@@ -13,6 +8,17 @@ namespace AppEmail
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        private void buttonEnviar_Clicked(object sender, EventArgs e)
+        {
+            string destinatario = entryDestinatario.Text;
+            string assunto = entryAssunto.Text;
+            string texto = editorTexto.Text;
+
+            string url = $"mailto:{destinatario}?subject={assunto}&body={texto}";
+
+            Device.OpenUri(new Uri(url));
         }
     }
 }

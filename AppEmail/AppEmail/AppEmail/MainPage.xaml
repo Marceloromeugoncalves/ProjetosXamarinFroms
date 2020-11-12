@@ -4,7 +4,7 @@
              x:Class="AppEmail.MainPage"
              Title="E-mail Plus">
 
-    <StackLayout>
+    <StackLayout Margin="20">
         <Frame BackgroundColor="Red">
             <Label Text="E-mail Plus"
                    TextColor="White"
@@ -13,10 +13,6 @@
                    HorizontalOptions="Center" 
                    />
         </Frame>
-
-        <Entry x:Name="entryRemetente"
-               Placeholder="Informe seu e-mail"
-               Keyboard="Email"/>
 
         <Entry x:Name="entryDestinatario"
                Placeholder="Informe o e-mail do destinatário"
@@ -27,9 +23,11 @@
 
         <Editor x:Name="editorTexto"
                 AutoSize="TextChanges"
-                Text="Informe o texto aqui."/>
+                Placeholder="Informe o texto aqui."/>
 
-        <Button Text="Enviar"/>
+        <Button Text="Enviar"
+                x:Name="buttonEnviar"
+                Clicked="buttonEnviar_Clicked"/>
     </StackLayout>
 
 </ContentPage>
