@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEmail.MainPage"
+             Title="E-mail Plus">
+
+    <StackLayout>
+        <Frame BackgroundColor="Red">
+            <Label Text="E-mail Plus"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   FontSize="Large"
+                   HorizontalOptions="Center" 
+                   />
+        </Frame>
+
+        <Entry x:Name="entryRemetente"
+               Placeholder="Informe seu e-mail"
+               Keyboard="Email"/>
+
+        <Entry x:Name="entryDestinatario"
+               Placeholder="Informe o e-mail do destinatário"
+               Keyboard="Email"/>
+
+        <Entry x:Name="entryAssunto"
+               Placeholder="Assunto"/>
+
+        <Editor x:Name="editorTexto"
+                AutoSize="TextChanges"
+                Text="Informe o texto aqui."/>
+
+        <Button Text="Enviar"/>
+    </StackLayout>
+
+</ContentPage>

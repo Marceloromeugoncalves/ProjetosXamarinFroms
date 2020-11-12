@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\bin\Debug\netstandard2.0\AppEmail.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\bin\Debug\netstandard2.0\AppEmail.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\bin\Debug\netstandard2.0\ref\AppEmail.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\bin\Debug\netstandard2.0\AppEmail.pdb
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\ref\AppEmail.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppEmail\AppEmail\AppEmail\obj\Debug\netstandard2.0\AppEmail.pdb
