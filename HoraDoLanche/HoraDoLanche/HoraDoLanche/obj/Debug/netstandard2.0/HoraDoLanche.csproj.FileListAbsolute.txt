@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\bin\Debug\netstandard2.0\HoraDoLanche.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\bin\Debug\netstandard2.0\HoraDoLanche.dll
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\bin\Debug\netstandard2.0\ref\HoraDoLanche.dll
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\bin\Debug\netstandard2.0\HoraDoLanche.pdb
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.dll
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\ref\HoraDoLanche.dll
+G:\Projetos Developer\XamarinFormsExemplos\HoraDoLanche\HoraDoLanche\HoraDoLanche\obj\Debug\netstandard2.0\HoraDoLanche.pdb
