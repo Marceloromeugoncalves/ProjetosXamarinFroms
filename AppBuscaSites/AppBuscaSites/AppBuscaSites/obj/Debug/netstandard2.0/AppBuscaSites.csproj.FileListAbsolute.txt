@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\AppBuscaSites.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\AppBuscaSites.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\ref\AppBuscaSites.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\bin\Debug\netstandard2.0\AppBuscaSites.pdb
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\ref\AppBuscaSites.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppBuscaSites\AppBuscaSites\AppBuscaSites\obj\Debug\netstandard2.0\AppBuscaSites.pdb
