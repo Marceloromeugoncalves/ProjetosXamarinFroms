@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\bin\Debug\netstandard2.0\ComprarCafe.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\bin\Debug\netstandard2.0\ComprarCafe.dll
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\bin\Debug\netstandard2.0\ref\ComprarCafe.dll
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\bin\Debug\netstandard2.0\ComprarCafe.pdb
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\ComprarCafe.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\ComprarCafe.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\ComprarCafe.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\ComprarCafe.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\ComprarCafe.dll
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\ref\ComprarCafe.dll
+G:\Projetos Developer\XamarinFormsExemplos\ComprarCafe\ComprarCafe\ComprarCafe\obj\Debug\netstandard2.0\ComprarCafe.pdb
