@@ -1,0 +1,15 @@
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\bin\Debug\netstandard2.0\NavPaginas.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\bin\Debug\netstandard2.0\NavPaginas.dll
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\bin\Debug\netstandard2.0\ref\NavPaginas.dll
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\bin\Debug\netstandard2.0\NavPaginas.pdb
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\NavPaginas.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\NavPaginas.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\NavPaginas.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\NavPaginas.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\NavPaginas.dll
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\ref\NavPaginas.dll
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\NavPaginas.pdb
+G:\Projetos Developer\XamarinFormsExemplos\NavPaginas\NavPaginas\NavPaginas\obj\Debug\netstandard2.0\PageExemplo.xaml.g.cs
