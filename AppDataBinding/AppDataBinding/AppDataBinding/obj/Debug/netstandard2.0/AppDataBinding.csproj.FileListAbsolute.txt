@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\AppDataBinding.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\AppDataBinding.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\ref\AppDataBinding.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\bin\Debug\netstandard2.0\AppDataBinding.pdb
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\ref\AppDataBinding.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppDataBinding\AppDataBinding\AppDataBinding\obj\Debug\netstandard2.0\AppDataBinding.pdb
