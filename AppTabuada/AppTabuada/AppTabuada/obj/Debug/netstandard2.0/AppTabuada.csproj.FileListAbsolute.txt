@@ -1,0 +1,14 @@
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\bin\Debug\netstandard2.0\AppTabuada.deps.json
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\bin\Debug\netstandard2.0\AppTabuada.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\bin\Debug\netstandard2.0\ref\AppTabuada.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\bin\Debug\netstandard2.0\AppTabuada.pdb
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.csprojAssemblyReference.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.AssemblyInfoInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.AssemblyInfo.cs
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.csproj.CoreCompileInputs.cache
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\ref\AppTabuada.dll
+G:\Projetos Developer\XamarinFormsExemplos\AppTabuada\AppTabuada\AppTabuada\obj\Debug\netstandard2.0\AppTabuada.pdb
